@@ -1,9 +1,7 @@
 <html>
-<header> 
-<h1>The Muffin Man's Little Cult</h1>
-</header>
+<header> Ze Muffin Man's Little Cult</header>
 <body>
-    <h3> style="color:blue"> The Kraken is going to kill us all</h3>
+    <style="color=blue"></style><h1>style="color:blue"> The Kraken is going to kill us all</h1>
     <p> I don't know, this is some random stuff. Onto your regularly scheduled show:The Great British Bakeoff.
 
 
@@ -20,8 +18,12 @@
 
 
 
-</html>
 
+
+
+
+
+</html>
 
 
 
